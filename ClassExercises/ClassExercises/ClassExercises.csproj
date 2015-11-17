@@ -47,9 +47,11 @@
     <Compile Include="CreditCard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SafetyBox.cs" />
     <Compile Include="Shirt.cs" />
     <Compile Include="SoftDrink.cs" />
     <Compile Include="Table.cs" />
+    <Compile Include="Taxi.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
